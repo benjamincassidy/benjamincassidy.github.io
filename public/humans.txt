@@ -1,0 +1,6 @@
+## Coding Arcana ##
+
+The blog and personal site of benjamin cassidy.
+
+- email: benjamin@cassidy.bio
+- website: benjamincassidy.github.io

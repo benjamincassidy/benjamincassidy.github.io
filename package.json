@@ -1,0 +1,35 @@
+{
+  "name": "benjamincassidy",
+  "version": "1.2.0",
+  "type": "module",
+  "homepage": "https://benjamincassidy.github.io",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^3.0.0",
+    "@astrojs/sitemap": "^3.0.0",
+    "@eliancodes/brutal-ui": "^0.2.2",
+    "astro": "^3.0.6",
+    "satori": "^0.5.0",
+    "satori-html": "^0.3.2"
+  },
+  "devDependencies": {
+    "@iconify-json/logos": "^1.1.35",
+    "@iconify-json/uil": "^1.1.5",
+    "@resvg/resvg-js": "^2.4.1",
+    "@typescript-eslint/parser": "^6.5.0",
+    "@unocss/reset": "^0.55.4",
+    "eslint": "^8.48.0",
+    "eslint-plugin-astro": "^0.29.0",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "prettier": "^3.0.3",
+    "prettier-plugin-astro": "^0.12.0",
+    "sharp": "^0.32.5",
+    "unocss": "^0.55.4"
+  }
+}

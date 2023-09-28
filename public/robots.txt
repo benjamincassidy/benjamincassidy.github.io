@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Host: https://benjamincassidy.github.io/
+Sitemap: https://benjamincassidy.github.io/sitemap-index.xml
